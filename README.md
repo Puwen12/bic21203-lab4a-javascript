@@ -1,8 +1,8 @@
 # BIC21203 Lab 4a: JavaScript
 
-**Name:** PUWENTHIRAN RAM A/L PANDIAN
-**Matrix Number:** CI240020
-**Section:** 8
+### **Name:** PUWENTHIRAN RAM A/L PANDIAN
+### **Matrix Number:** CI240020
+### **Section:** 8
 
 ## Project Overview
 This repository contains the practical implementations for Lab 4a, demonstrating fundamental client-side scripting techniques. The project focuses on applying modern JavaScript to create interactive web elements and manipulate the Document Object Model (DOM) safely and effectively. 
