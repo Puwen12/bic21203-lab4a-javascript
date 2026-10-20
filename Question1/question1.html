@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <div id="myElement">
+        <p id="message">Welcome to my website!</p>
+        </div>
+        <button id="changeBtn" type="button">Change Message</button>
+
+        <script>
+            const messageText = document.getElementById("message");
+            const btn = document.getElementById("changeBtn");
+            function changeMessage() {
+            messageText.textContent = "Hello there!";
+            }
+            btn.addEventListener("click", changeMessage);
+        </script>
+        
+    </body>
+</html>
